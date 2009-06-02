@@ -15,3 +15,6 @@ One developer received a legal nastygram for his project, along with a request f
 
 There are plenty of other applications possible. Bixi should provide an official API and a legal framework in which to create mashups. Montreal developers will surprise them, and create more value for Bixi when they export this model to other cities.
 
+== Bugs
+
+Tracked here: http://www.pivotaltracker.com/projects/17713
