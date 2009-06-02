@@ -10,9 +10,11 @@
 
     function initialize() {
       if (GBrowserIsCompatible()) {
-        var map = new GMap2(document.getElementById("map_canvas"));
-        map.setCenter(new GLatLng(37.4419, -122.1419), 13);
-        map.setUIToDefault();
+        var map    = new GMap2(document.getElementById("map_canvas"));
+        var geoXml = new GGeoXml("http://www.biximo.com/bixi_stations.kml");
+        
+        map.setCenter(new GLatLng(45.515249,-73.569603), 13);
+        map.addOverlay(geoXml);
       }
     }
 
