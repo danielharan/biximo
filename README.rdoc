@@ -1,8 +1,17 @@
-== Biximo
+= Biximo
 
 Bixi is an amazing project.
 
-This mashup exists to help bixi users find stations using mobile devices such as the iphone. There are 2 other objectives:
+This mashup exists to help bixi users find stations. Other objectives:
   -provide better icons that show if a station has available bikes or parking spots
   -overlay bike paths
+  -keep layers in their own kml files for better reuse
+
+While it is meant to be reusable by mobile devices such as the iphone (maybe just opening a webkit view), for now all work is done on the web.
+
+== Motivation
+
+One developer received a legal nastygram for his project, along with a request for source code. Our community can create a better application for them to copy. Fork this project, and show them what other designs you think are more beautiful or efficient.
+
+There are plenty of other applications possible. Bixi should provide an official API and a legal framework in which to create mashups. Montreal developers will surprise them, and create more value for Bixi when they export this model to other cities.
 
