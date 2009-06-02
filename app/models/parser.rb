@@ -1,4 +1,12 @@
 require 'hpricot'
+require 'open-uri'
+
+module OpenSSL
+  module SSL
+    remove_const :VERIFY_PEER
+    VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
+  end
+end
 
 class Station
   attr_accessor :name, :latitude, :longitude, :available_bikes, :parking_spots
@@ -24,6 +32,12 @@ class Parser
         s.at("nbBikes").innerHTML,
         s.at("nbEmptyDocks").innerHTML
       )
+    end
+  end
+  
+  class << self
+    def fetch
+      new open('https://profil.bixi.ca/data/bikeStations.xml')
     end
   end
 end
