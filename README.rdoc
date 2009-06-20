@@ -17,4 +17,4 @@ There are plenty of other applications possible. Bixi should provide an official
 
 == Bugs
 
-Tracked here: http://www.pivotaltracker.com/projects/17713
+Tracked here: <http://www.pivotaltracker.com/projects/17713>
