@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1"> <Document><name>Bixi</name>
+	
+<Placemark>
+						<name>Vélo: 2 - Ancrages :13</name>
+						<description>Hôtel de ville</description><Point><coordinates>-73.55372,45.50853</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :11</name>
+						<description>Berri / René-Lévesque</description><Point><coordinates>-73.55710,45.51339</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Saint-Denis / René-Lévesque</description><Point><coordinates>-73.55850,45.51289</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>Viger / Berri</description><Point><coordinates>-73.55500,45.51228</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Métro Champ-de-Mars</description><Point><coordinates>-73.55653,45.51038</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :7</name>
+						<description>Saint-Antoine / Hôtel-de-Ville</description><Point><coordinates>-73.55613,45.50875</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Hôtel-de-Ville / René-Lévesque</description><Point><coordinates>-73.55972,45.51062</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>Juliette-Béliveau/ Saint-Laurent</description><Point><coordinates>-73.56197,45.50927</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 18 - Ancrages :1</name>
+						<description>Parc Émilie-Gamelin</description><Point><coordinates>-73.56005,45.51504</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Sainte-Catherine / Saint-Denis</description><Point><coordinates>-73.56069,45.51358</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Métro Saint-Laurent</description><Point><coordinates>-73.56497,45.51066</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Sanguinet / Maisonneuve</description><Point><coordinates>-73.56255,45.51339</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :10</name>
+						<description>Saint-Denis / Maisonneuve</description><Point><coordinates>-73.56226,45.51460</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Saint-Christophe / Maisonneuve</description><Point><coordinates>-73.56020,45.51666</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Robin / Amherst</description><Point><coordinates>-73.56091,45.51905</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :2</name>
+						<description>Saint-André / Ontario</description><Point><coordinates>-73.56353,45.51889</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Berri / Sherbrooke</description><Point><coordinates>-73.56665,45.51766</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>Sanguinet / Ontario</description><Point><coordinates>-73.56538,45.51469</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>Saint-Louis / Berri</description><Point><coordinates>-73.55316,45.51174</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>de la Commune / Berri</description><Point><coordinates>-73.54983,45.51086</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Saint-André / René-Lévesque</description><Point><coordinates>-73.55607,45.51542</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Notre-Dame / Saint-Vincent</description><Point><coordinates>-73.55446,45.50746</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :24</name>
+						<description>de la Commune / Jacques-Cartier</description><Point><coordinates>-73.55181,45.50744</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Le Royer / Saint-Laurent</description><Point><coordinates>-73.55431,45.50589</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Saint-Jacques / Saint-Laurent</description><Point><coordinates>-73.55646,45.50630</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 9 - Ancrages :6</name>
+						<description>Saint-Antoine / Saint-François-Xavier</description><Point><coordinates>-73.55920,45.50449</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Viger / Saint-Urbain</description><Point><coordinates>-73.55976,45.50623</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :7</name>
+						<description>Chenneville / Viger</description><Point><coordinates>-73.56093,45.50536</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 3 - Ancrages :4</name>
+						<description>de la Gauchetière / Bleury</description><Point><coordinates>-73.56257,45.50439</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :20</name>
+						<description>de la Commune / Callière</description><Point><coordinates>-73.55329,45.50254</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :14</name>
+						<description>Saint-Nicolas / Saint-Paul</description><Point><coordinates>-73.55555,45.50210</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :9</name>
+						<description>McGill / D'Youville</description><Point><coordinates>-73.55566,45.49975</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>McGill / des Récollets</description><Point><coordinates>-73.55878,45.50081</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Saint-Jacques / Saint-Pierre</description><Point><coordinates>-73.55917,45.50280</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :22</name>
+						<description>Saint-Jacques / Gauvin</description><Point><coordinates>-73.56117,45.50062</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>de la Gauchetière / University</description><Point><coordinates>-73.56493,45.50112</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Square Victoria</description><Point><coordinates>-73.56295,45.50206</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Union / René-Lévesque</description><Point><coordinates>-73.56720,45.50272</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>de la Gauchetière / Mansfield</description><Point><coordinates>-73.56671,45.49871</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>William / Queen</description><Point><coordinates>-73.55761,45.49839</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :13</name>
+						<description>King / Wellington</description><Point><coordinates>-73.55488,45.49820</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :14</name>
+						<description>de la Commune / McGill</description><Point><coordinates>-73.55232,45.49886</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>Brennan / Prince</description><Point><coordinates>-73.55311,45.49594</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :10</name>
+						<description>Duke / Wellington</description><Point><coordinates>-73.55583,45.49643</coordinates></Point>
+					</Placemark>
+
+
+
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Square-Dorchester</description><Point><coordinates>-73.57171,45.49926</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>de la Cathédrale / René-Lévesque</description><Point><coordinates>-73.56933,45.49919</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :6</name>
+						<description>Metcalf / Mont-Royal</description><Point><coordinates>-73.57250,45.50091</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Mansfield / René-Lévesque</description><Point><coordinates>-73.56928,45.50015</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Sainte-Catherine / McGill College</description><Point><coordinates>-73.57128,45.50176</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :10</name>
+						<description>Stanley / Sainte-Catherine</description><Point><coordinates>-73.57391,45.49944</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Drummond / Maisonneuve</description><Point><coordinates>-73.57591,45.49947</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :10</name>
+						<description>Maisonneuve / Stanley</description><Point><coordinates>-73.57507,45.50038</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Stanley / Sherbrooke</description><Point><coordinates>-73.57707,45.50097</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>University / Maisonneuve</description><Point><coordinates>-73.57126,45.50383</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Mansfield / Sherbrooke</description><Point><coordinates>-73.57505,45.50297</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :10</name>
+						<description>McTavish / Dr. Penfield</description><Point><coordinates>-73.57820,45.50392</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>University / Milton</description><Point><coordinates>-73.57622,45.50624</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Maisonneuve / Aylmer</description><Point><coordinates>-73.57069,45.50501</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Sherbrooke / Saint-Urbain</description><Point><coordinates>-73.56996,45.51084</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 6 - Ancrages :25</name>
+						<description>Maisonneuve / Bleury</description><Point><coordinates>-73.56917,45.50708</coordinates></Point>
+					</Placemark>
+
+
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>Bleury / René-Lévesque</description><Point><coordinates>-73.56437,45.50513</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :24</name>
+						<description>Square-Phillips</description><Point><coordinates>-73.56865,45.50401</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 3 - Ancrages :14</name>
+						<description>Notre-Dame / Peel</description><Point><coordinates>-73.56328,45.49520</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Saint-Jacques / Guy</description><Point><coordinates>-73.56707,45.48996</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 15 - Ancrages :2</name>
+						<description>Métro Lucien-L'Allier</description><Point><coordinates>-73.57108,45.49486</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :2</name>
+						<description>Amesbury / René-Lévesque</description><Point><coordinates>-73.57560,45.49285</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>Crescent / René-Lévesque</description><Point><coordinates>-73.57348,45.49606</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Seymour / René-Lévesque</description><Point><coordinates>-73.57966,45.48987</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Métro Atwater</description><Point><coordinates>-73.58612,45.48989</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Chomedey / Maisonneuve</description><Point><coordinates>-73.58380,45.49156</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Lucien-L'Allier / Saint-Jacques</description><Point><coordinates>-73.56795,45.49321</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Sainte-Catherine / Saint-Marc</description><Point><coordinates>-73.58061,45.49275</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Bishop / Sainte-Catherine</description><Point><coordinates>-73.57616,45.49642</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Crescent / Maisonneuve</description><Point><coordinates>-73.57719,45.49796</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Maisonneuve / Mackay</description><Point><coordinates>-73.57851,45.49659</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Sherbrooke / Saint-Marc</description><Point><coordinates>-73.58382,45.49435</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :2</name>
+						<description>Sherbrooke / Côte-des-Neiges</description><Point><coordinates>-73.58222,45.49617</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :10</name>
+						<description>Bishop / Sherbrooke</description><Point><coordinates>-73.57977,45.49816</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Alexandre-DeSève / René-Lévesque</description><Point><coordinates>-73.55137,45.52017</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>René-Lévesque / Papineau</description><Point><coordinates>-73.54926,45.52114</coordinates></Point>
+					</Placemark>
+
+
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Fullum / Jean-Langlois</description><Point><coordinates>-73.54612,45.52615</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :2</name>
+						<description>Poupart / Ambroise-Casale</description><Point><coordinates>-73.54513,45.52855</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Parthenais / Sainte-Catherine</description><Point><coordinates>-73.54933,45.52622</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 13 - Ancrages :4</name>
+						<description>Métro Beaudry</description><Point><coordinates>-73.55581,45.51907</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Alexandre-DeSève  / Maisonneuve</description><Point><coordinates>-73.55534,45.52190</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Métro Papineau</description><Point><coordinates>-73.55199,45.52353</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>de la Visitation / Ontario</description><Point><coordinates>-73.56192,45.52231</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Robin / de la Visitation</description><Point><coordinates>-73.55922,45.52087</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>Alexandre-DeSève / Ontario</description><Point><coordinates>-73.56059,45.52433</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :10</name>
+						<description>Dorion / Ontario</description><Point><coordinates>-73.55821,45.52695</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :1</name>
+						<description>Parthenais / Ontario</description><Point><coordinates>-73.55622,45.52954</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Logan / D'Iberville</description><Point><coordinates>-73.54913,45.53057</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>du Havre / La Fontaine</description><Point><coordinates>-73.54923,45.53243</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Métro Frontenac</description><Point><coordinates>-73.55219,45.53301</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :2</name>
+						<description>Hogan/ Ontario</description><Point><coordinates>-73.55121,45.53540</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Rouen / Fullum</description><Point><coordinates>-73.55859,45.53217</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Chapleau / Hochelaga</description><Point><coordinates>-73.55956,45.53433</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Hogan / Hochelaga</description><Point><coordinates>-73.55702,45.53746</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Sherbrooke / Frontenac</description><Point><coordinates>-73.56081,45.53670</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Sherbrooke / Fullum</description><Point><coordinates>-73.56196,45.53375</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>des Érables / Sherbrooke</description><Point><coordinates>-73.56256,45.53148</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Bordeaux / Sherbrooke</description><Point><coordinates>-73.56309,45.52999</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>University / Sherbrooke</description><Point><coordinates>-73.57376,45.50504</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>University / Prince-Arthur</description><Point><coordinates>-73.57845,45.50733</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>University / des Pins</description><Point><coordinates>-73.58064,45.50839</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Place d'Armes / Saint-Jacques</description><Point><coordinates>-73.55741,45.50452</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :0</name>
+						<description>Atwater / Sherbrooke</description><Point><coordinates>-73.58748,45.49123</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Lambert-Closse / Tupper</description><Point><coordinates>-73.58242,45.48959</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>La Fontaine / Fullum</description><Point><coordinates>-73.54723,45.52831</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Champlain / La Fontaine</description><Point><coordinates>-73.55767,45.52392</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :2</name>
+						<description>Bercy / de Rouen</description><Point><coordinates>-73.55466,45.53577</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Logan / Parthenais</description><Point><coordinates>-73.55206,45.52739</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Notre-Dame / de la Montagne</description><Point><coordinates>-73.56472,45.49312</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :6</name>
+						<description>Milton / Aylmer</description><Point><coordinates>-73.57519,45.50767</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :2</name>
+						<description>Sainte-Famille / Sherbrooke</description><Point><coordinates>-73.57079,45.51009</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :3</name>
+						<description>Gascon / Rachel</description><Point><coordinates>-73.56270,45.53797</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Fullum / Rachel</description><Point><coordinates>-73.56475,45.53503</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :5</name>
+						<description>des Érables / Rachel</description><Point><coordinates>-73.56695,45.53341</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Gauthier / Papineau</description><Point><coordinates>-73.56737,45.52970</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Gauthier / des Érables</description><Point><coordinates>-73.56437,45.53237</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>de Bordeaux / Rachel</description><Point><coordinates>-73.56828,45.53227</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :2</name>
+						<description>Garnier / Rachel</description><Point><coordinates>-73.57163,45.52865</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Rachel / Brébeuf</description><Point><coordinates>-73.57264,45.52689</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Parc La Fontaine / Duluth</description><Point><coordinates>-73.57221,45.52469</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Parc La Fontaine / Barrière</description><Point><coordinates>-73.56884,45.52312</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :9</name>
+						<description>Calixa-Lavallée / Sherbrooke</description><Point><coordinates>-73.56545,45.52479</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>Émile-Duployé / Sherbrooke</description><Point><coordinates>-73.56463,45.52729</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>Chapleau / Mont-Royal</description><Point><coordinates>-73.56936,45.53867</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Fullum / Mont-Royal</description><Point><coordinates>-73.57004,45.53749</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>des Érables / Mont-Royal</description><Point><coordinates>-73.57172,45.53565</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>parc des Compagnons-de-Saint-Laurent</description><Point><coordinates>-73.57341,45.53393</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>de Bordeaux / Marie-Anne</description><Point><coordinates>-73.57059,45.53335</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :6</name>
+						<description>Marquette / Mont-Royal</description><Point><coordinates>-73.57544,45.53229</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Garnier / Mont-Royal</description><Point><coordinates>-73.57674,45.53092</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Marie-Anne / Brébeuf</description><Point><coordinates>-73.57579,45.52803</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>De la Roche / Mont-Royal</description><Point><coordinates>-73.57828,45.52856</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Gilford / Brébeuf</description><Point><coordinates>-73.58153,45.53073</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :4</name>
+						<description>Marquette / Gilford</description><Point><coordinates>-73.57891,45.53390</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Garnier / Saint-Joseph</description><Point><coordinates>-73.58118,45.53297</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :0</name>
+						<description>Cartier / Saint-Joseph</description><Point><coordinates>-73.57867,45.53576</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :2</name>
+						<description>Messier / Saint-Joseph</description><Point><coordinates>-73.57596,45.53928</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Marquette / Laurier</description><Point><coordinates>-73.58220,45.53543</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :2</name>
+						<description>Garnier / Laurier</description><Point><coordinates>-73.58315,45.53388</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Brébeuf / Laurier</description><Point><coordinates>-73.58507,45.53248</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :2</name>
+						<description>Brébeuf / Saint-Grégoire</description><Point><coordinates>-73.58852,45.53410</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :6</name>
+						<description>Marquette /  Saint-Grégoire</description><Point><coordinates>-73.58584,45.53703</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Bordeaux / Masson</description><Point><coordinates>-73.58220,45.53881</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :4</name>
+						<description>de Mentana /  Saint-Grégoire</description><Point><coordinates>-73.59064,45.53187</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :3</name>
+						<description>de Mentana / Laurier</description><Point><coordinates>-73.58670,45.53004</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Parc La Fontaine / Cherrier</description><Point><coordinates>-73.56658,45.52229</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 9 - Ancrages :6</name>
+						<description>Berri / Cherrier</description><Point><coordinates>-73.56975,45.51925</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>Roy / Saint-Denis</description><Point><coordinates>-73.57270,45.51908</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Saint-André / Roy</description><Point><coordinates>-73.57047,45.52186</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :0</name>
+						<description>Saint-André / Duluth</description><Point><coordinates>-73.57348,45.52312</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :7</name>
+						<description>Saint-André / Rachel</description><Point><coordinates>-73.57575,45.52417</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>Duluth / Rivard</description><Point><coordinates>-73.57524,45.52138</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Laval / Rachel</description><Point><coordinates>-73.57976,45.52032</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>Coloniale / Rachel</description><Point><coordinates>-73.58100,45.51897</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>Coloniale / Mont-Royal</description><Point><coordinates>-73.58559,45.52114</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Hôtel-de-Ville / Mont-Royal</description><Point><coordinates>-73.58462,45.52227</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 26 - Ancrages :15</name>
+						<description>Métro Mont-Royal</description><Point><coordinates>-73.58199,45.52468</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Saint-André / Mont-Royal</description><Point><coordinates>-73.58047,45.52633</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>Boyer / Mont-Royal</description><Point><coordinates>-73.58002,45.52743</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>Saint-André / De Bienville</description><Point><coordinates>-73.58226,45.52720</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Marie-Anne / Saint-Hubert</description><Point><coordinates>-73.57878,45.52473</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Berri / Gilford</description><Point><coordinates>-73.58598,45.52673</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Berri / Saint-Joseph</description><Point><coordinates>-73.58714,45.52749</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :4</name>
+						<description>Saint-André / Saint-Joseph</description><Point><coordinates>-73.58545,45.52856</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Métro Laurier</description><Point><coordinates>-73.58870,45.52811</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>Henri-Julien / Laurier</description><Point><coordinates>-73.59030,45.52580</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :6</name>
+						<description>Maguire / De Gaspé</description><Point><coordinates>-73.59426,45.52632</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>De Bullion / Saint-Joseph</description><Point><coordinates>-73.58978,45.52377</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 1 - Ancrages :10</name>
+						<description>Villeneuve / Saint-Laurent</description><Point><coordinates>-73.58918,45.52157</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Boucher / Saint-Denis</description><Point><coordinates>-73.59170,45.52810</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :7</name>
+						<description>Hélène-Baillargeon / Saint-Denis</description><Point><coordinates>-73.59527,45.52974</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Saint-Viateur / Clark</description><Point><coordinates>-73.59935,45.52542</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>Maguire / Saint-Laurent</description><Point><coordinates>-73.59588,45.52457</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>Hôtel-de-Ville / Villeneuve</description><Point><coordinates>-73.58727,45.52348</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Hutchison / Sherbrooke</description><Point><coordinates>-73.57208,45.50781</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Milton / du Parc</description><Point><coordinates>-73.57354,45.50971</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Prince-Arthur / du Parc</description><Point><coordinates>-73.57547,45.51059</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>des Pins / Jeanne-Mance</description><Point><coordinates>-73.57741,45.51225</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :4</name>
+						<description>Hutchison / des Pins</description><Point><coordinates>-73.57805,45.51069</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Milton / Clark</description><Point><coordinates>-73.57062,45.51252</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Prince-Arthur / Saint-Laurent</description><Point><coordinates>-73.57239,45.51407</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Roy / Saint-Laurent</description><Point><coordinates>-73.57569,45.51561</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Duluth / Saint-Urbain</description><Point><coordinates>-73.58064,45.51566</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Duluth / Saint-Laurent</description><Point><coordinates>-73.57921,45.51710</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>Square Saint-Louis</description><Point><coordinates>-73.56906,45.51735</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :3</name>
+						<description>Saint-Cuthbert / Saint-Urbain</description><Point><coordinates>-73.57821,45.51494</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :3</name>
+						<description>Parc du Mont-Royal</description><Point><coordinates>-73.58503,45.51496</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Marie-Anne / Saint-Urbain</description><Point><coordinates>-73.58531,45.51778</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>Hôtel-de-Ville / Roy</description><Point><coordinates>-73.57452,45.51737</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Duluth / Laval</description><Point><coordinates>-73.57719,45.51939</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Mont-Royal / Clark</description><Point><coordinates>-73.58685,45.51941</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :2</name>
+						<description>de l'Esplanade / Mont-Royal</description><Point><coordinates>-73.58825,45.51833</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Mont-Royal / du Parc</description><Point><coordinates>-73.58900,45.51700</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Villeneuve / du Parc</description><Point><coordinates>-73.59235,45.51829</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Villeneuve / Saint-Urbain</description><Point><coordinates>-73.59026,45.52039</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Clark / Laurier</description><Point><coordinates>-73.59360,45.52266</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :11</name>
+						<description>Jeanne-Mance / Laurier</description><Point><coordinates>-73.59494,45.52024</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Fairmount / Saint-Urbain</description><Point><coordinates>-73.59558,45.52279</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :4</name>
+						<description>Saint-Viateur / Waverly</description><Point><coordinates>-73.60062,45.52386</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :5</name>
+						<description>Saint-Viateur / Parc</description><Point><coordinates>-73.60190,45.52246</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :4</name>
+						<description>Bernard / Clark</description><Point><coordinates>-73.60261,45.52697</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>Hutchison / Van Horne</description><Point><coordinates>-73.61061,45.52498</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Waverly / Van Horne</description><Point><coordinates>-73.60786,45.52734</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Hôtel-de-Ville / Sherbrooke</description><Point><coordinates>-73.56876,45.51472</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Parthenais / Gilford</description><Point><coordinates>-73.57490,45.53806</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Chapleau / Marie-Anne</description><Point><coordinates>-73.56703,45.53755</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :2</name>
+						<description>Bernard / Jeanne-Mance</description><Point><coordinates>-73.60497,45.52419</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 0 - Ancrages :11</name>
+						<description>Métro Rosemont</description><Point><coordinates>-73.59784,45.53110</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>Boyer / Rosemont</description><Point><coordinates>-73.59549,45.53406</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 12 - Ancrages :3</name>
+						<description>Saint-Hubert / Bellechasse</description><Point><coordinates>-73.59976,45.53457</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Boyer / Beaubien</description><Point><coordinates>-73.60207,45.53699</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 3 - Ancrages :12</name>
+						<description>Drolet / Beaubien</description><Point><coordinates>-73.60589,45.53337</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :4</name>
+						<description>Casgrain / Beaubien</description><Point><coordinates>-73.60763,45.53147</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Saint-Dominique / Saint-Zotique</description><Point><coordinates>-73.61108,45.53304</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Dante / Alma</description><Point><coordinates>-73.61190,45.53479</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :3</name>
+						<description>Bélanger / Saint-Denis</description><Point><coordinates>-73.61199,45.53696</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :0</name>
+						<description>Henri-Julien / Jean-Talon</description><Point><coordinates>-73.61529,45.53707</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>Mozart / Casgrain</description><Point><coordinates>-73.61458,45.53484</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 2 - Ancrages :5</name>
+						<description>Mozart / Saint-Laurent</description><Point><coordinates>-73.61544,45.53318</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Métro Jean-Talon</description><Point><coordinates>-73.61343,45.53960</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Boyer / Bélanger</description><Point><coordinates>-73.60897,45.54006</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :3</name>
+						<description>Boyer / Saint-Zotique</description><Point><coordinates>-73.60556,45.53848</coordinates></Point>
+					</Placemark>
+
+<Placemark>
+						<name>Vélo: 2 - Ancrages :9</name>
+						<description>Boyer / Jean-Talon</description><Point><coordinates>-73.61243,45.54160</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :5</name>
+						<description>De Normanville / Rosemont</description><Point><coordinates>-73.59394,45.53637</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :3</name>
+						<description>Holt / de Lorimier</description><Point><coordinates>-73.58644,45.54184</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Cartier / des Carrières</description><Point><coordinates>-73.58807,45.53989</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Des Érables / Rosemont</description><Point><coordinates>-73.58844,45.54363</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>de la Roche / Bellechasse</description><Point><coordinates>-73.59747,45.53712</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :8</name>
+						<description>Bellechasse / Marquette</description><Point><coordinates>-73.59415,45.54009</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :10</name>
+						<description>Chabot / Bellechasse</description><Point><coordinates>-73.59212,45.54270</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 6 - Ancrages :1</name>
+						<description>des Écores / Bellechasse</description><Point><coordinates>-73.58922,45.54591</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Louis-Hébert / Beaubien</description><Point><coordinates>-73.59268,45.54857</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :9</name>
+						<description>Bordeaux / Beaubien</description><Point><coordinates>-73.59490,45.54475</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :7</name>
+						<description>Normanville / Beaubien</description><Point><coordinates>-73.60047,45.53933</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :6</name>
+						<description>Normanville / Saint-Zotique</description><Point><coordinates>-73.60384,45.54083</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :4</name>
+						<description>Fabre / Saint-Zotique</description><Point><coordinates>-73.60105,45.54344</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :4</name>
+						<description>Cartier / Saint-Zotique</description><Point><coordinates>-73.59938,45.54523</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :1</name>
+						<description>des Érables / Saint-Zotique</description><Point><coordinates>-73.59721,45.54770</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :2</name>
+						<description>Lanaudière / Bélanger</description><Point><coordinates>-73.60575,45.54368</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Cartier / Bélanger</description><Point><coordinates>-73.60281,45.54691</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 11 - Ancrages :4</name>
+						<description>Chambord / Jean-Talon</description><Point><coordinates>-73.60997,45.54452</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 15 - Ancrages :0</name>
+						<description>Fabre / Jean-Talon</description><Point><coordinates>-73.60792,45.54667</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Louis-Hébert / Saint-Zotique</description><Point><coordinates>-73.59576,45.55001</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>des Écores / Bélanger</description><Point><coordinates>-73.59940,45.55074</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :1</name>
+						<description>Normanville / Bélanger</description><Point><coordinates>-73.60692,45.54228</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 3 - Ancrages :4</name>
+						<description>Rosemont / Garnier</description><Point><coordinates>-73.59201,45.53824</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :6</name>
+						<description>des Carrières / Christophe-Colomb</description><Point><coordinates>-73.59209,45.53378</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :5</name>
+						<description>Bellechasse / de Lorimier</description><Point><coordinates>-73.59089,45.54418</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Louis-Hémon / Beaubien</description><Point><coordinates>-73.59353,45.54705</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>des Érables / Bélanger</description><Point><coordinates>-73.60081,45.54909</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>de Gaspé / de Bellechasse</description><Point><coordinates>-73.60393,45.53051</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 10 - Ancrages :1</name>
+						<description>Marquette / Beaubien</description><Point><coordinates>-73.59738,45.54269</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :2</name>
+						<description>Holt / Fullum</description><Point><coordinates>-73.58447,45.54393</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Laurier / Querbes</description><Point><coordinates>-73.59735,45.51764</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :2</name>
+						<description>Outremont / Ducharme</description><Point><coordinates>-73.61571,45.52195</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 5 - Ancrages :6</name>
+						<description>Bernard / Bloomfield</description><Point><coordinates>-73.60772,45.52032</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :9</name>
+						<description>Métro Outremont</description><Point><coordinates>-73.61475,45.52014</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>Querbes / Lajoie</description><Point><coordinates>-73.60933,45.52257</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :7</name>
+						<description>Durocher / Fairmount</description><Point><coordinates>-73.59882,45.51883</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 7 - Ancrages :0</name>
+						<description>Peel / Ottawa</description><Point><coordinates>-73.55979,45.49427</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Rioux / de la Montagne</description><Point><coordinates>-73.56054,45.49185</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 4 - Ancrages :3</name>
+						<description>Guy / Notre-Dame</description><Point><coordinates>-73.57015,45.49138</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 8 - Ancrages :3</name>
+						<description>de Bordeaux / Jean-Talon</description><Point><coordinates>-73.60526,45.54958</coordinates></Point>
+					</Placemark>
+<Placemark>
+						<name>Vélo: 9 - Ancrages :10</name>
+						<description>Métro Iberville</description><Point><coordinates>-73.60233,45.55289</coordinates></Point>
+					</Placemark>
+
+
+</Document></kml>

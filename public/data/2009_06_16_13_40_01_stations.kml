@@ -1,0 +1,45 @@
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: Entity: line 1: parser error : Space required after the Public Identifier in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]:                                                  ^ in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: Entity: line 1: parser error : SystemLiteral &quot; or ' expected in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]:                                                  ^ in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]:                                                  ^ in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: Entity: line 9: parser error : Opening and ending tag mismatch: hr line 7 and body in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;/body&gt;&lt;/html&gt; in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]:        ^ in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: Entity: line 9: parser error : Opening and ending tag mismatch: body line 4 and html in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: &lt;/body&gt;&lt;/html&gt; in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]:               ^ in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: Entity: line 10: parser error : Premature end of data in tag html line 2 in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]:  in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  SimpleXMLElement::__construct() [<a href='simplexmlelement.--construct'>simplexmlelement.--construct</a>]: ^ in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/bixicom/public_html/plan/index.php:9
+Stack trace:
+#0 /home/bixicom/public_html/plan/index.php(9): SimpleXMLElement-&gt;__construct('&lt;!DOCTYPE HTML ...')
+#1 /home/bixicom/public_html/plan/index.php(28): getAllStationsWithoutId()
+#2 /home/bixicom/public_html/lib/readURL.class.php(39): include('/home/bixicom/p...')
+#3 /home/bixicom/public_html/index.php(24): Readurl-&gt;readSubDomain()
+#4 {main}
+  thrown in <b>/home/bixicom/public_html/plan/index.php</b> on line <b>9</b><br />
