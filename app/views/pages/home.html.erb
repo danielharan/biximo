@@ -4,20 +4,18 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title>Biximo: </title>
+    <%= javascript_include_tag 'prototype' %>
     <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAXy4mU-35ujDI0wYP4J2ZhhSKOroUKBGDeKoIK1a13NNz4zpq6RQ6wTkkelwACXehNnv4_ZnIOQmLHA&amp;sensor=false"
             type="text/javascript"></script>
     <script type="text/javascript">
     
     var map;
-    var geoXml;
     
     function initialize() {
       if (GBrowserIsCompatible()) {
         map    = new GMap2(document.getElementById("map_canvas"));
-        geoXml = new GGeoXml("http://www.biximo.com/bixi_stations.kml");
         
         map.setCenter(new GLatLng(45.515249,-73.569603), 13);
-        map.addOverlay(geoXml);
       }
     }
 

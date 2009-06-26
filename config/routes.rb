@@ -42,4 +42,6 @@ ActionController::Routing::Routes.draw do |map|
   # map.connect ':controller/:action/:id.:format'
   
   map.connect 'bixi_stations.kml', :controller => 'kml', :action => 'bixi_stations', :format => 'kml'
+  
+  map.connect '/', :controller => 'pages', :action => 'home'
 end
