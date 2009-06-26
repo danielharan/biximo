@@ -1,17 +1,11 @@
 require 'hpricot'
 require 'open-uri'
+require 'station'
 
 module OpenSSL
   module SSL
     remove_const :VERIFY_PEER
     VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE
-  end
-end
-
-class Station
-  attr_accessor :name, :latitude, :longitude, :available_bikes, :parking_spots
-  def initialize(name, latitude, longitude, available_bikes, parking_spots)
-    @name, @latitude, @longitude, @available_bikes, @parking_spots = name, latitude, longitude, available_bikes, parking_spots
   end
 end
 
