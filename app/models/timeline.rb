@@ -9,4 +9,8 @@ class Timeline
       Dir.glob("#{RAILS_ROOT}/public/data/#{day.strftime('%Y_%m_%d')}*")
     end.flatten
   end
+  
+  def stations
+    []
+  end
 end
