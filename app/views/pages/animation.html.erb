@@ -9,35 +9,20 @@
             type="text/javascript"></script>
     <script type="text/javascript">
     
-    var stations = <%= @t.stations.to_json %>;
-    var map;
-    var s;
-    
-    function initialize() {
-      if (GBrowserIsCompatible()) {
-        map    = new GMap2(document.getElementById("map_canvas"));
-        
-        map.setCenter(new GLatLng(45.515249,-73.569603), 13);
-        
-        //s = new Station({latitude: 45.515, longitude: -73.569});
-        stations[0].draw(map);
-      }
-    }
-    
     var Station = Class.create({
       initialize: function(options) {
-        this.options = Object.extend({opacity: 0.5}, options);
+        this.options = Object.extend({opacity: options.timeline[0]}, options);
       },
       draw: function(map) {
         offset = 0.0005;
-        lat    = this.options.latitude;
-        lng    = this.options.longitude;
-        this.polygon = new GPolygon([new GLatLng(lat,        lng - offset),
-                                     new GLatLng(lat + offset, lng),
-                                     new GLatLng(lat,        lng + offset),
-                                     new GLatLng(lat - offset, lng),
-                                     new GLatLng(lat,        lng - offset)
-                                    ], "#FF0000", 1, 0.5, "#FF0000", this.options.opacity)
+        lat    = +this.options.latitude;
+        lng    = +this.options.longitude;
+        this.polygon = new GPolygon([new GLatLng(lat,           lng - offset),
+                                     new GLatLng(lat + offset,  lng),
+                                     new GLatLng(lat,           lng + offset),
+                                     new GLatLng(lat - offset,  lng),
+                                     new GLatLng(lat,           lng - offset)
+                                    ], "#FF0000", 1, 1, "#FF0000", this.options.opacity)
         map.addOverlay(this.polygon);
         
       },
@@ -45,11 +30,40 @@
         this.polygon.setFillStyle({opacity: ratio});
       }
     });
+    
+    var stations = <%= IO.read("#{RAILS_ROOT}/public/data/2009_06_24") %>;
+    var map;
+    
+    function initialize() {
+      if (GBrowserIsCompatible()) {
+        map    = new GMap2(document.getElementById("map_canvas"));
+        
+        map.addControl(new GLargeMapControl());
+        
+        map.setCenter(new GLatLng(45.515249,-73.569603), 13);
+        
+        for (var index = 0; index < stations.length; ++index) {
+          stations[index] = new Station(stations[index]); // in place replacement
+          stations[index].draw(map);
+        }
+      }
+    }
+    
+    function animate() {
+      for (i=0; i<=188; i = i+100) {
+        console.info("on tick " + i);
+        stations.each(function(station) {
+          station.setFillRatio(station.options.timeline[i]);
+        });
+      }
+    }
+    
+
 
     </script>
   </head>
   <body onload="initialize()" onunload="GUnload()">
     <p><strong>Unofficial</strong> Bixi(tm) map</p>
-    <div id="map_canvas" style="width: 762px; height: 468px"></div>
+    <div id="map_canvas" style="width: 800px; height: 700px"></div>
   </body>
 </html>
