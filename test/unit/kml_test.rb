@@ -10,7 +10,7 @@ class KmlTest < ActiveSupport::TestCase
     assert_not_nil hotel_de_ville
     assert_equal   "9", hotel_de_ville.available_bikes
     assert_equal   "6", hotel_de_ville.parking_spots
-    assert_equal   "-73.55372", hotel_de_ville.latitude
-    assert_equal   "45.50853", hotel_de_ville.longitude   
+    assert_equal   "-73.55372", hotel_de_ville.longitude
+    assert_equal   "45.50853", hotel_de_ville.latitude
   end
 end

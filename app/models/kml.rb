@@ -6,7 +6,7 @@ class Kml
     doc = Hpricot.XML(file)
     
     stations = (doc / 'Placemark').collect do |s|
-      lat, lng = s.at('Point/coordinates').innerHTML.split(',')
+      lng, lat = s.at('Point/coordinates').innerHTML.split(',')
       available_bikes, parking_spots = s.at('name').innerHTML.match(/: (\d+).*:(\d+)/)[1,2]
       
       Station.new(s.at('description').innerHTML, lat, lng, available_bikes, parking_spots)
