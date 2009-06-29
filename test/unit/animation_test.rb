@@ -17,7 +17,7 @@ class AnimationTest < ActiveSupport::TestCase
     a = Animation.new(Date.civil(2009,06,24))
     
     # speed this up a bit!
-    a.stubs(:files).returns(["#{RAILS_ROOT}/public/data/2009_06_24_00_00_01_stations.kml", "#{RAILS_ROOT}/public/data/2009_06_24_00_05_01_stations.kml"])
+    a.stubs(:files).returns(["#{RAILS_ROOT}/processing/data/2009_06_24_00_00_01_stations.kml", "#{RAILS_ROOT}/processing/data/2009_06_24_00_05_01_stations.kml"])
     
     stations = a.stations
     assert_equal Array,   stations.class

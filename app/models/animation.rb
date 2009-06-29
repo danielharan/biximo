@@ -6,7 +6,7 @@ class Animation
   
   def files
     @date_range.collect do |day|
-      Dir.glob("#{RAILS_ROOT}/public/data/#{day.strftime('%Y_%m_%d')}*")
+      Dir.glob("#{RAILS_ROOT}/processing/data/#{day.strftime('%Y_%m_%d')}?*kml")
     end.flatten
   end
   
