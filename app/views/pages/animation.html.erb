@@ -38,25 +38,26 @@
       if (GBrowserIsCompatible()) {
         map    = new GMap2(document.getElementById("map_canvas"));
         
-        map.addControl(new GLargeMapControl());
+        //map.addControl(new GLargeMapControl());
         
-        map.setCenter(new GLatLng(45.515249,-73.569603), 13);
+        map.setCenter(new GLatLng(45.5199,-73.5768), 13);
+        console.info(map.getBounds());
         
-        for (var index = 0; index < stations.length; ++index) {
-          stations[index] = new Station(stations[index]); // in place replacement
-          stations[index].draw(map);
-        }
+        // for (var index = 0; index < stations.length; ++index) {
+        //   stations[index] = new Station(stations[index]); // in place replacement
+        //   stations[index].draw(map);
+        // }
       }
     }
     
-    function animate() {
-      for (i=0; i<=188; i = i+100) {
-        console.info("on tick " + i);
-        stations.each(function(station) {
-          station.setFillRatio(station.options.timeline[i]);
-        });
-      }
-    }
+    // function animate() {
+    //   for (i=0; i<=188; i = i+100) {
+    //     console.info("on tick " + i);
+    //     stations.each(function(station) {
+    //       station.setFillRatio(station.options.timeline[i]);
+    //     });
+    //   }
+    // }
     
 
 
@@ -64,6 +65,7 @@
   </head>
   <body onload="initialize()" onunload="GUnload()">
     <p><strong>Unofficial</strong> Bixi(tm) map</p>
-    <div id="map_canvas" style="width: 800px; height: 700px"></div>
+    <div id="map_canvas" style="width: 600px; height: 600px"></div>
   </body>
+  <!-- <img src="http://maps.google.com/staticmap?center=45.5199,-73.5768&zoom=13&size=600x600&key=35ujDI0wYP4J2ZhhSKOroUKBGDeKoIK1a13NNz4zpq6RQ6wTkkelwACXehNnv4_ZnIOQmLHA&sensor=false" /> -->
 </html>
