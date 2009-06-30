@@ -14,8 +14,8 @@ class Station
   
   def convert_lat_lng_to_relative_position(bounds)
     [
-      (bounds[:left_lng] - @longitude) / (bounds[:left_lng] - bounds[:right_lng]), 
-      (bounds[:top_lat]  - @latitude)  / (bounds[:top_lat]  - bounds[:low_lat])
+      (bounds[:left_lng] - @longitude.to_f) / (bounds[:left_lng] - bounds[:right_lng]), 
+      (bounds[:top_lat]  - @latitude.to_f)  / (bounds[:top_lat]  - bounds[:low_lat])
     ]
   end
 end
