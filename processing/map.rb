@@ -1,15 +1,46 @@
+$: << "../app/models/"
+require 'station'
+
 class Map < Processing::App
-  attr_accessor :ellipse, :img
+  BOUNDS = {:left_lng => -73.62831115722656, :right_lng => -73.52531433105469, :top_lat => 45.5560111391413, :low_lat => 45.4838452797276}
+
+  attr_accessor :stations, :img
   def setup
-    @img     = image load_image("montreal_gmap.gif"), 0, 0
-    fill 255, 0, 0
-    @ellipse = oval 100, 100, 55, 55
+    smooth
+
+    @img  = load_image("montreal_gmap.gif")
+    background @img
     
-    fill 100, 0, 0
-    @ellipse = oval 200, 100, 55, 55
+    # JSON animation that was done for the web.
+    # Processing has its own JRuby distro, and both Nokogiri and HPricot are $%^& pain
+    # this is an ugly hack, but it's lazy and it works for now
+    @stations = eval(IO.read("./data/2009_06_24").gsub(":", "=>")).collect do |datum|
+      a = AnimatedStation.new datum
+      a.draw
+    end
+  end
+  
+  class AnimatedStation
+    def initialize(options)
+      @options = options # latitude, longitude, timeline
+      @x, @y = convert_lat_lng_to_relative_position
+    end
     
-    fill 0, 0, 0
-    @ellipse = oval 300, 100, 55, 55
+    def draw
+      fill 200, 0, 0, @options["timeline"][0] * 255
+      oval @x * 600, @y * 600, 7, 7
+    end
+    
+    def erase
+      
+    end
+    
+    def convert_lat_lng_to_relative_position
+      [
+        (BOUNDS[:left_lng] - @options["longitude"].to_f) / (BOUNDS[:left_lng] - BOUNDS[:right_lng]), 
+        (BOUNDS[:top_lat]  - @options["latitude"].to_f)  / (BOUNDS[:top_lat]  - BOUNDS[:low_lat])
+      ]
+    end
   end
 end
 
