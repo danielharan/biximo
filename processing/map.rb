@@ -19,23 +19,27 @@ class Map < Processing::App
     # this is an ugly hack, but it's lazy and it works for now
     @stations = eval(IO.read("./data/2009_06_24").gsub(":", "=>")).collect do |datum|
       a = AnimatedStation.new datum
-      a.draw
+      a.draw(@current_frame)
       a
     end
   end
   
   def draw
-    
+    return if @current_frame >= 288
+    background @img
+    @stations.each {|station| station.draw(@current_frame)}
+    @current_frame += 1
   end
   
   class AnimatedStation
+    attr_accessor :options
     def initialize(options)
       @options = options # latitude, longitude, timeline
       @x, @y = convert_lat_lng_to_relative_position
     end
     
-    def draw
-      fill 0.7, 0, 0, @options["timeline"][0]
+    def draw(frame)
+      fill 0.7, 0, 0, @options["timeline"][frame]
       oval @x * 600, @y * 600, 7, 7
     end
     
