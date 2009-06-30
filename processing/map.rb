@@ -4,9 +4,12 @@ require 'station'
 class Map < Processing::App
   BOUNDS = {:left_lng => -73.62831115722656, :right_lng => -73.52531433105469, :top_lat => 45.5560111391413, :low_lat => 45.4838452797276}
 
-  attr_accessor :stations, :img
+  attr_accessor :stations, :img, :current_frame
   def setup
+    color_mode RGB, 1.0
     smooth
+    frame_rate 12
+    @current_frame = 0
 
     @img  = load_image("montreal_gmap.gif")
     background @img
@@ -17,7 +20,12 @@ class Map < Processing::App
     @stations = eval(IO.read("./data/2009_06_24").gsub(":", "=>")).collect do |datum|
       a = AnimatedStation.new datum
       a.draw
+      a
     end
+  end
+  
+  def draw
+    
   end
   
   class AnimatedStation
@@ -27,12 +35,8 @@ class Map < Processing::App
     end
     
     def draw
-      fill 200, 0, 0, @options["timeline"][0] * 255
+      fill 0.7, 0, 0, @options["timeline"][0]
       oval @x * 600, @y * 600, 7, 7
-    end
-    
-    def erase
-      
     end
     
     def convert_lat_lng_to_relative_position
