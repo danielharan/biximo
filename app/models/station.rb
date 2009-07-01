@@ -18,4 +18,8 @@ class Station
       (bounds[:top_lat]  - @latitude.to_f)  / (bounds[:top_lat]  - bounds[:low_lat])
     ]
   end
+  
+  def size
+    @size ||= @available_bikes.to_i + @parking_spots.to_i
+  end
 end
