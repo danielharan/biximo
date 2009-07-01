@@ -2,6 +2,7 @@ require "#{RAILS_ROOT}/app/models/kml"
 require "#{RAILS_ROOT}/app/models/station"
 
 namespace :biximo do
+  desc 'convert kml in a format easier for ruby-processing to handle'
   task :marshal_kml do
     Dir.glob("#{RAILS_ROOT}/processing/data/*kml").each do |f|
       next if File.exists?(f.gsub("kml", "marshalled"))
