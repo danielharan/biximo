@@ -3,3 +3,4 @@ tmp/**/*
 doc/api
 doc/app
 *.sqlite3
+processing/data/*.marshalled
