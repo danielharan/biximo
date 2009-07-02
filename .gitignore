@@ -4,3 +4,5 @@ doc/api
 doc/app
 *.sqlite3
 processing/data/*.marshalled
+*.mov
+.DS_Store
