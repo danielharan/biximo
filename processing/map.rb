@@ -2,11 +2,17 @@ $: << "../app/models/"
 require 'station'
 
 class Map < Processing::App
+  load_library 'video'
+  import 'processing.video.MovieMaker'
+  
   BOUNDS = {:left_lng => -73.62831115722656, :right_lng => -73.52531433105469, :top_lat => 45.5560111391413, :low_lat => 45.4838452797276}
   DAY    = "2009_06_30"
 
-  attr_accessor :data_files, :img, :current_frame
+  attr_accessor :data_files, :img, :current_frame, :recording
   def setup
+    @mm = MovieMaker.new(self, width, height, "biximo_#{DAY}.mov")
+    @recording = true
+    
     color_mode RGB, 1.0
     
     @font = create_font('Helvetica', 40)
@@ -23,7 +29,15 @@ class Map < Processing::App
   end
   
   def draw
-    return if @current_frame >= 288
+    if @current_frame >= 288
+      if @recording
+        @mm.finish
+        @recording = false
+      end
+      return
+    end
+    @mm.add_frame
+    
     background @img
     
     fill 0, 0, 0, 1
