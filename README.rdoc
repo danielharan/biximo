@@ -2,18 +2,29 @@
 
 Bixi is an amazing project.
 
-This mashup exists to help bixi users find stations. Other objectives:
+This project was started to create tools for a better iphone app. I don't want to be sued though :)
+
+A better map would:
   -provide better icons that show if a station has available bikes or parking spots
   -overlay bike paths
   -keep layers in their own kml files for better reuse
 
-While it is meant to be reusable by mobile devices such as the iphone (maybe just opening a webkit view), for now all work is done on the web.
+== Technical notes
 
-== Motivation
+Bixi's kml files are downloaded every 5 minutes by a cron job, and rsynced to my computer. They're saved in processing/data
 
-One developer received a legal nastygram for his project, along with a request for source code. Our community can create a better application for them to copy. Fork this project, and show them what other designs you think are more beautiful or efficient.
+The only useful thing right now is the animation done with ruby-processing. 
 
-There are plenty of other applications possible. Bixi should provide an official API and a legal framework in which to create mashups. Montreal developers will surprise them, and create more value for Bixi when they export this model to other cities.
+Ruby-processing doesn't play nice with Nokogiri or Hpricot, so I convert each file to something that can be easily loaded. Run:
+> rake biximo:marshal_kml
+
+then to launch the animation:
+> cd processing
+> rp5 live map.rb
+
+== Todo
+
+If I have more time, I'll re-do the KML, and add bike paths. If Bixi wants to share more data, more interesting things could be done :)
 
 == Bugs
 
