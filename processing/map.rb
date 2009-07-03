@@ -10,7 +10,7 @@ class Map < Processing::App
 
   attr_accessor :data_files, :img, :current_frame, :recording
   def setup
-    @mm = MovieMaker.new(self, width, height, "biximo_#{DAY}.mov")
+    @mm = MovieMaker.new(self, width, height, "biximo_#{DAY}.mov", 2)
     @recording = true
     
     color_mode RGB, 1.0
