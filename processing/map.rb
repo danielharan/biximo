@@ -10,7 +10,7 @@ class Map < Processing::App
 
   attr_accessor :data_files, :img, :current_frame, :recording
   def setup
-    @mm = MovieMaker.new(self, width, height, "biximo_#{DAY}.mov", 2)
+    @mm = MovieMaker.new(self, width, height, "biximo_#{DAY}.mp4", 6, MovieMaker::ANIMATION, MovieMaker::MEDIUM)
     @recording = true
     
     color_mode RGB, 1.0
@@ -19,7 +19,7 @@ class Map < Processing::App
     text_font @font
     
     smooth
-    frame_rate 2
+    frame_rate 6
     @current_frame = 0
 
     @img  = load_image("montreal_gmap.gif")
@@ -36,7 +36,6 @@ class Map < Processing::App
       end
       return
     end
-    @mm.add_frame
     
     background @img
     
@@ -50,6 +49,8 @@ class Map < Processing::App
     end
     
     @current_frame += 1
+    
+    @mm.add_frame
   end
   
   class AnimatedStation
@@ -61,7 +62,7 @@ class Map < Processing::App
       fill 0.7, 0, 0, @station.fill_ratio.to_f
       
       x, y = @station.convert_lat_lng_to_relative_position(BOUNDS)
-      size = (Math.log(@station.size) / 1.94591014905531) * 12
+      size = (Math.log(@station.size) / 1.94591014905531) * 14
       ellipse x * 600, y * 600, size, size
     end
   end
